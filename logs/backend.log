@@ -2831,3 +2831,19 @@
 11/25/2021, 12:48:42 PM - INFO - Server is running on port: 3030 
 11/25/2021, 1:43:34 PM - INFO - Server is running on port: 3030 
 11/25/2021, 1:50:55 PM - INFO - Server is running on port: 3030 
+11/25/2021, 3:05:49 PM - INFO - Server is running on port: 3030 
+11/27/2021, 11:28:36 AM - INFO - Server is running on port: 3030 
+11/27/2021, 11:31:37 AM - INFO - Server is running on port: 3030 
+11/27/2021, 12:01:23 PM - INFO - Server is running on port: 3030 
+11/30/2021, 12:21:12 PM - DEBUG - auth.service - signup with username: itay, fullname: itay a (sid: IpNooxntvvzxkbKmiY7mX55LLQxil2xk)
+11/30/2021, 12:21:12 PM - DEBUG - auth.route - new account created: {"username":"itay","password":"$2b$10$p2EbPNHT.G/.P8JwhOTj6.74GEAA8kCuODIXybVGvL1cxcNUThwKW","fullname":"itay a","from":"israel","AvResponseTime":1,"MemberSince":"30.11.2021","UserPhoto":"","_id":"61a5fb18ab072b614ca44262"} (sid: IpNooxntvvzxkbKmiY7mX55LLQxil2xk)
+11/30/2021, 12:21:12 PM - DEBUG - auth.service - login with username: itay (sid: IpNooxntvvzxkbKmiY7mX55LLQxil2xk)
+11/30/2021, 12:21:26 PM - INFO - Req from: itay a (sid: IpNooxntvvzxkbKmiY7mX55LLQxil2xk)
+11/30/2021, 12:21:26 PM - INFO - Req from: itay a (sid: IpNooxntvvzxkbKmiY7mX55LLQxil2xk)
+11/30/2021, 12:25:04 PM - DEBUG - auth.service - signup with username: bear, fullname: bear a (sid: PwhnHn0euoFv07LK_-9nRsELKH-AA8vc)
+11/30/2021, 12:25:05 PM - DEBUG - auth.route - new account created: {"username":"bear","password":"$2b$10$TUzy81.o/2vZFZQJJkN2ze4BBjxGozxxqW1r9MaM4OYFjCHUxHUU2","fullname":"bear a","from":"brazil","AvResponseTime":1,"MemberSince":"30.11.2021","UserPhoto":"","_id":"61a5fc01ab072b614ca44264"} (sid: PwhnHn0euoFv07LK_-9nRsELKH-AA8vc)
+11/30/2021, 12:25:05 PM - DEBUG - auth.service - login with username: bear (sid: PwhnHn0euoFv07LK_-9nRsELKH-AA8vc)
+11/30/2021, 12:25:13 PM - INFO - Req from: bear a (sid: PwhnHn0euoFv07LK_-9nRsELKH-AA8vc)
+11/30/2021, 12:28:51 PM - INFO - Req from: bear a (sid: PwhnHn0euoFv07LK_-9nRsELKH-AA8vc)
+11/30/2021, 12:28:51 PM - INFO - Req from: bear a (sid: PwhnHn0euoFv07LK_-9nRsELKH-AA8vc)
+11/30/2021, 12:31:59 PM - INFO - Req from: bear a (sid: PwhnHn0euoFv07LK_-9nRsELKH-AA8vc)
